@@ -1,0 +1,7 @@
+# AUTH
+/auth/node_modules
+/auth/.env
+
+# PORTOFOLIO
+/portofolio/node_modules
+/portofolio/.env
